@@ -2,6 +2,7 @@
 #include <vector>
 #include "bubbleSort.h"
 #include "selectionSort.h"
+#include "insertionSort.h"
 
 
 void display(std::vector<int> & a, int size) {
@@ -19,7 +20,7 @@ int main() {
 	std::cout << "\nTest Set" << std::endl;
 	display(a, size);	
 
-	selectionSort(a, size);
+	insertionSort(a, size);
 	
 	std::cout << "\nOrdered Set" << std::endl;
 	display(a, size);

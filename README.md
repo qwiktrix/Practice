@@ -5,7 +5,7 @@ This repo is intended to house implementations of basic algorithms and data stru
 ### Sorting Algos
 - [x] Bubble Sort
 - [x] Selection Sort
-- [ ] Insertion Sort
+- [x] Insertion Sort
 - [ ] Merge Sort
 - [ ] Quick Sort
 - [ ] Heap Sort
