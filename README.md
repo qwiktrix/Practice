@@ -1,8 +1,8 @@
-### Practice Repo
+# Practice Repo
 This repo is intended to house implementations of basic algorithms and data structures. 
 
 ## Algos
-# Sorting Algos
+### Sorting Algos
 - [x] Bubble Sort
 - [x] Selection Sort
 - [ ] Insertion Sort
