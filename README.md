@@ -11,5 +11,10 @@ This repo is intended to house implementations of basic algorithms and data stru
 - [ ] Heap Sort
 
 ## Data Structures
+- [ ] Dynamic Resizing Array
+- [ ] Hash Tables
+- [ ] Queue
+- [ ] Stack
+- [ ] Linked List
 *To be updated in the future*
 
